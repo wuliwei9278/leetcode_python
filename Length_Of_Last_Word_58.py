@@ -20,3 +20,4 @@ class Solution(object):
                 break
         
         return length
+
